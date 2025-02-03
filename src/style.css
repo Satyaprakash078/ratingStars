@@ -1,0 +1,13 @@
+#starButton {
+  font-size: 30px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  margin: 10px;
+}
+.uncolored {
+  color: #ccc;
+}
+.colored {
+  color: gold;
+}
